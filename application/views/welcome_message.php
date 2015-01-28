@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <body>
-<h1>がんばるやで！！</h1>
+<h1>はよせな</h1>
 </body>
 </html>
